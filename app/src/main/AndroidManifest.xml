@@ -15,9 +15,7 @@
         <activity
             android:name=".CarActivity"
             android:exported="false" />
-        <activity
-            android:name=".MyAppSQLiteHelper"
-            android:exported="false" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
