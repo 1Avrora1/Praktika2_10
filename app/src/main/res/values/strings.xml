@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Praktika2_10</string>
+    <string name="model">Марка автомобиля</string>
+    <string name="license_plate">Гос номер</string>
+    <string name="production_year">Год выпуска</string>
+    <string name="add">Добавить</string>
+    <string name="next">Показать список</string>
+    <string name="insert_success">Данные успешно записаны</string>
+    <string name="insert_error">При записи данных произошла ошибка</string>
+    <string name="incorrect_value">Вы ввели некоректные значения</string>
+    <string name="hello">Разработал Стрыгин Никита РИБО-03-22</string>
+</resources>
